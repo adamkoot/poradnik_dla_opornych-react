@@ -35,13 +35,13 @@ three = () => {
 
   render() {
     var global;
-      if (this.state.value==0) {
+      if (this.state.value===0) {
         global = <Content />;
-      } else if(this.state.value==1) {
+      } else if(this.state.value===1) {
         global = <Start />;
-      }else if(this.state.value==2) {
+      }else if(this.state.value===2) {
         global = <BasicOne />;
-      }else if(this.state.value==3) {
+      }else if(this.state.value===3) {
         global = <BasicTwo />;
       }
       return (

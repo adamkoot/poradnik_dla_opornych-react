@@ -66,21 +66,21 @@ export default function Start(props) {
           <br/>
           Krok 2: Wybieramy lokalizacje projektu. W moim przypadku będzie to pulpit.
           <br/>
-          <img src="1.png" className="obrazek1"/>
+          <img src="1.png" className="obrazek1" alt="1"/>
           <br/>
           Krok 3: W wybranej lokalizacji wpisujemy komende: <i>npx create-react-app nazwa_naszej_aplikacji</i>
           <br/>
-          <img src="2.png" className="obrazek2"/>
+          <img src="2.png" className="obrazek2" alt="1"/>
           <br/>
           Krok 4: Po udanej instalacji uruchamiamy projekt komendą wchodząc poleceniem do folderu <i>cd tssi </i>(w przypadku systemu Windows), a następnie uruchamiając ją komendą <i>npm run</i>
           <br/>
-          <img src="3.png" className="obrazek3"/>
+          <img src="3.png" className="obrazek3" alt="1"/>
           <br/>
           <br/>
           Jeśli wszystko poszło pomyślnie, powinna uruchomić się przeglądarka z powitalną stroną postawioną jako <i>localhost:3000</i>.
           <br/>
           <br/>
-          <img src="4.png" className="obrazek4"/>
+          <img src="4.png" className="obrazek4" alt="1"/>
           <br/>
           <Typography variant="h5" className="start2">
           Przejdźmy do omówienia języka JSX.

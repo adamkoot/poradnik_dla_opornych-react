@@ -34,14 +34,14 @@ export default function Start(props) {
             <br />
             Komponenty klasowe
           </Typography>
-          <img src="11.png" />
+          <img src="11.png" alt="1"/>
         </Grid>
         <Grid item xs={6}>
           <Typography component="p" variant="h5">
             <br />
             Komponenty funkcyjne
           </Typography>
-          <img src="12.png" />
+          <img src="12.png" alt="1"/>
         </Grid>
       </Grid>
       <Grid item xs={12}>
@@ -54,7 +54,7 @@ export default function Start(props) {
           <br />
           Stórzmy plik <i>Licznik.jsx</i>, który wygląda następująco:
         </Typography>
-        <img src="13.png" />
+        <img src="13.png" alt="1"/>
       </Grid>
       <Grid item xs={12}>
         <Typography component="p" variant="h5">
@@ -62,7 +62,7 @@ export default function Start(props) {
           Teraz zaimportujmy nasz komponent Licznik do komponentu ,,matki" -{" "}
           <i>App</i> i go tam wywołajmy
         </Typography>
-        <img src="14.png" />
+        <img src="14.png" alt="1"/>
       </Grid>
       <Grid item xs={12} className="komponent">
         <Typography variant="h4">Stan aplikacji</Typography>
@@ -79,7 +79,7 @@ export default function Start(props) {
           <br/>
           Dodaj do przycisku zdarzenie <i>onClick</i>
         </Typography>
-        <img src="15.png" />
+        <img src="15.png" alt="1"/>
       </Grid>
     </Grid>
   );

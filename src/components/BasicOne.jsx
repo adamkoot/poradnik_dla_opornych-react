@@ -45,17 +45,17 @@ export default function Start(props) {
               następnie użyjemy ją otaczając nawiasami wąsatymi (aby wskazać
               JSX, że korzystamy z JS):
             </Typography>
-            <img src="5.png" className="obrazek5"></img>
+            <img src="5.png" className="obrazek5" alt="1"></img>
             <Typography component="p" variant="h6">
               Poniżej w przykładzie wywołamy wynik funkcji JS'owej:
             </Typography>
-            <img src="6.png" className="obrazek6"></img>
+            <img src="6.png" className="obrazek6" alt="1"></img>
             <hr />
-            <Typography component="p" variant="h6">
+            <Typography component="p" variant="h6" alt="1">
               <b>JSX reprezentuje obiekty</b> pamiętaj, towrząc swoje znaczniki,
               zawsze powinny zwracać obiekt:
             </Typography>
-            <img src="7.png" className="obrazek7"></img>
+            <img src="7.png" className="obrazek7" alt="1"></img>
           </CardContent>
         </Card>
         <Grid item xs={12} className="jsx">
@@ -71,21 +71,21 @@ export default function Start(props) {
             Dodawając bezpośrednio używając atrybutu <i>style</i>
             <br/>
             <br/>
-            <img src="8.png" className="obrazek8"></img></Typography>
+            <img src="8.png" className="obrazek8" alt="1"></img></Typography>
           </Grid>
           <Grid item xs={4}>
           <Typography component="p" variant="h6">
             Importując plik .css w sposób obiektowy
             <br/>
             <br/>
-            <img src="9.png" className="obrazek9"></img></Typography>
+            <img src="9.png" className="obrazek9" alt="1"></img></Typography>
           </Grid>
           <Grid item xs={4}>
           <Typography component="p" variant="h6">
             Wykorzystując opcje jezyka JSX przez zdefiniowanie stylów jako obiekt
             <br/>
             <br/>
-            <img src="10.png" className="obrazek10"></img></Typography>
+            <img src="10.png" className="obrazek10" alt="1"></img></Typography>
           </Grid>
         </Grid>
       </Grid>
