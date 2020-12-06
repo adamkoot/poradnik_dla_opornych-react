@@ -1,0 +1,43 @@
+.start {
+    padding: 10vh;
+    background-color: rgb(206, 91, 190);
+    text-align: center;
+    color: white;
+}
+
+.zalety{
+    padding: 10vh;
+    
+}
+
+.font {
+    font-size: 2vw;
+}
+
+.napis {
+    color: red;
+}
+
+.start2 {
+    padding: 5vh;
+    background-color: rgb(206, 91, 190);
+    text-align: center;
+    color: white;
+}
+
+.obrazek1 {
+    height: auto;
+    width: 50%;
+}
+.obrazek2 {
+    height: auto;
+    width: 45%;
+}
+.obrazek3 {
+    height: auto;
+    width: 30%;
+}
+.obrazek4 {
+    height: auto;
+    width: 50%;
+}

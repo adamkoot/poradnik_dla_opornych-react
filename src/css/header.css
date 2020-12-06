@@ -1,0 +1,21 @@
+.top {
+    height: 10vh;
+    background-color: white;
+    text-align: center;
+    margin-top: auto;
+    font-size: 1.2vw;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(206, 91, 190);
+}
+
+a:hover {
+    color: rgb(167, 42, 150);
+}
+
+.resp {
+    width: 40%;
+  height: auto;
+}

@@ -1,0 +1,15 @@
+.welcome {
+    padding: 20vh;
+    background-color: rgb(206, 91, 190);
+    text-align: center;
+    color: white;
+}
+
+.card {
+    padding: 5vh;
+    font-size: 2vw;
+}
+
+.linki {
+    font-size: 1.8vw;
+}
